@@ -1,0 +1,8 @@
+path: /home/alaminsheikh/Course/First Semester/Generative AI/Projects/Assignment/Ex1/D-Fire
+train: train/images
+val: test/images
+
+nc: 2
+names:
+  - smoke
+  - fire
